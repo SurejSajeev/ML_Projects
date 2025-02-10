@@ -1,2 +1,7 @@
 /mlenv
 /data
+.vscode
+.idea
+.venv
+supervised\nlp\data
+supervised\nlp\error_data.csv
